@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6d0094/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6d0094_X_000-0338a, 'n': 0338a, ed: X, source_xml_id: X33.0628.0338a}
+  - {type: line-break, offset: 0, content: '', id: KR6d0094_X_000-0338a01, ed: X, 'n': 0338a01}
+  - {type: line-break, offset: 0, content: '', id: KR6d0094_X_000-0338a02, ed: X, 'n': 0338a02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6d0094_X_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6d0094_X_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6d0094_X_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '6', id: KR6d0094_X_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '2', id: KR6d0094_X_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '8', id: KR6d0094_X_000-bkkpn6}
+  - {type: line-break, offset: 0, content: '', id: KR6d0094_X_000-0338a03, ed: X, 'n': 0338a03}
+  - {type: line-break, offset: 0, content: '', id: KR6d0094_X_000-0199a01, ed: R093, 'n': 0199a01}
+  - {type: variant, offset: 452, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 644, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1028, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1168, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1175, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1202, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1358, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 1361, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 1363, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1388, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1586, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1988, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2124, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 2234, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2283, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2587, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 2633, length: 1, content: 但, 卍續: 伹}
+  - {type: variant, offset: 2820, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2852, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2957, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 2981, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3067, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3069, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 3147, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 3168, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 3765, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4175, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 4310, length: 1, content: 但, 卍續: 伹}
+  - {type: variant, offset: 4970, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5143, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5155, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5334, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 5457, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5506, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5759, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 5902, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5904, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6168, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6225, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 6406, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 6415, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 6429, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 6704, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 6890, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7336, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7406, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 7419, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 7668, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7749, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7807, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7840, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7913, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8000, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8182, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 8213, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8312, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8383, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8466, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8497, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8566, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8936, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 9010, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9022, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 9675, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9811, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10792, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10797, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10809, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10816, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10850, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11011, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 11184, length: 1, content: 己, 卍續: 已}
+  - {type: variant, offset: 11424, length: 1, content: 但, 卍續: 伹}
+  - {type: variant, offset: 11698, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11750, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12781, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12931, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13059, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13073, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13198, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13488, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13740, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13802, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13862, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13926, length: 1, content: 囑X33n0627_p0317a33, 卍續: 曯}
+  - {type: variant, offset: 14216, length: 1, content: 囑X33n0627_p0317a33, 卍續: 曯}
+  - {type: variant, offset: 14533, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14963, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15295, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15508, length: 1, content: 己, 卍續: 巳}
+  body: []
+  back: []
+hash: sha256:86f2d23d6a62f8b43e7ee1abc1751f300d240da817f6f9c9a6afa9a8c206b7b5
